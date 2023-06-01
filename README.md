@@ -1,10 +1,10 @@
 
 # Temporizador
-<div style='display: grid;'>
+<div>
   <a href='#asc'>Crescente</a>
   <a href='#desc'>Decrescente</a>
 </div>
-<img align='center' alt='Imagem do projeto' src='./assets/assets/assets/screenshot.jpg'>
+<img align='center' alt='Imagem do projeto' src='./assets/screenshot.jpg'>
 
 <div style='margin-top: 4rem'
 id='asc'>
