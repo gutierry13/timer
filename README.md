@@ -4,7 +4,7 @@
   <a href='#asc'>Crescente</a>
   <a href='#desc'>Decrescente</a>
 </div>
-<img align='center' alt='Imagem do projeto' src='./assets/assets/Captura de tela 2023-06-01 115758.jpg'>
+<img align='center' alt='Imagem do projeto' src='./assets/assets/assets/screenshot.jpg'>
 
 <div style='margin-top: 4rem'
 id='asc'>
